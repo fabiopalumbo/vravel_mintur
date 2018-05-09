@@ -1,0 +1,20 @@
+Base path: D:/Program Files/Unity560f3/Editor/Data
+Cmd: initializeCompiler
+Cmd: preprocess
+  insize=1860 outsize=934 ok=1
+Cmd: preprocess
+  insize=1433 outsize=369 ok=1
+Cmd: preprocess
+  insize=2663 outsize=1141 ok=1
+Cmd: preprocess
+  insize=392 outsize=392 ok=1
+Cmd: preprocess
+  insize=1936 outsize=723 ok=1
+Cmd: preprocess
+  insize=1707 outsize=624 ok=1
+Cmd: preprocess
+  insize=729 outsize=726 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=13211 outsize=5478 kw=_SUNDISK_SIMPLE pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=13211 outsize=930 kw=_SUNDISK_SIMPLE pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA ok=1

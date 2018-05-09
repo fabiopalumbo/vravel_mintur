@@ -1,0 +1,2 @@
+C:\Users\fabio.5CAINTERN\Google Drive\0 Proyectos\Proyectos\0 vravel\MinTur - SD\MinTur\Temp\UnityVS_obj\Debug\MinTur.csprojResolveAssemblyReference.cache
+C:\Users\fabio.5CAINTERN\Google Drive\0 Proyectos\Proyectos\0 vravel\MinTur - SD\MinTur\Temp\UnityVS_obj\Debug\MinTur.csproj.CoreCompileInputs.cache

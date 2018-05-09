@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/VRTIFY/scripts/vravel_json_loader.cs">
+    <Files>
+      <File FileName="Assets/ExternalLibs/Vimeo/VimeoVideoMenu3D.cs" Line="393" Column="36" />
+      <File FileName="Assets/ExternalLibs/FileUtils.cs" Line="51" Column="29" />
+      <File FileName="Assets/VRTIFY/scripts/shower.cs" Line="53" Column="2" />
+      <File FileName="Assets/VRTIFY/scripts/Controller.cs" Line="185" Column="26" />
+      <File FileName="Assets/VRTIFY/scripts/vravel_json_loader.cs" Line="43" Column="4" />
+      <File FileName="Assets/VRTIFY/scripts/video_data.cs" Line="14" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
